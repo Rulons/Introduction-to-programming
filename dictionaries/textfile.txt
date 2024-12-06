@@ -1,0 +1,11 @@
+and 
+end 
+dog 
+cat
+and 
+bat
+hat
+log
+fog
+jog
+bat
